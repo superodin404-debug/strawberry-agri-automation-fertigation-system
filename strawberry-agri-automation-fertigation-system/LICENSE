@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg936\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;}
+{\colortbl;\red255\green255\blue255;\red27\green31\blue34;\red7\green68\blue184;\red203\green35\blue57;
+\red91\green40\blue180;\red6\green33\blue79;}
+{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18039;\cssrgb\c0\c36078\c77255;\cssrgb\c84314\c22745\c28627;
+\cssrgb\c43529\c25882\c75686;\cssrgb\c1176\c18431\c38431;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww21280\viewh9940\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 MIT License\
+\
+Copyright (c) \cf3 2026\cf2  Strawberry Agri-Automation Fertigation System (SAAFS)\
+\
+Permission is hereby granted, free \cf4 of\cf2  charge, \cf5 to\cf2  \cf4 any\cf2  person obtaining \cf4 a\cf2  copy\
+\cf4 of\cf2  this software \cf4 and\cf2  associated documentation \cf5 files\cf2  (\cf4 the\cf2  \cf6 "Software"\cf2 ), \cf5 to\cf2  deal\
+\cf4 in\cf2  \cf4 the\cf2  Software \cf4 without\cf2  restriction, including \cf4 without\cf2  limitation \cf4 the\cf2  rights\
+\cf5 to\cf2  use, copy, modify, \cf5 merge\cf2 , publish, distribute, sublicense, \cf4 and\cf2 /\cf4 or\cf2  sell\
+copies \cf4 of\cf2  \cf4 the\cf2  Software, \cf4 and\cf2  \cf5 to\cf2  permit persons \cf5 to\cf2  whom \cf4 the\cf2  Software is\
+furnished \cf5 to\cf2  \cf5 do\cf2  so, subject \cf5 to\cf2  \cf4 the\cf2  following conditions:\
+\
+The above copyright notice \cf4 and\cf2  this permission notice shall be included \cf4 in\cf2  all\
+copies \cf4 or\cf2  substantial portions \cf4 of\cf2  \cf4 the\cf2  Software.\
+\
+THE SOFTWARE IS PROVIDED \cf6 "AS IS"\cf2 , WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\
+SOFTWARE.}
